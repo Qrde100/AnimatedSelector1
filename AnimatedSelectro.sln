@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimatedSelectro", "AnimatedSelectro\AnimatedSelectro.csproj", "{DB702723-F43B-4055-9A34-FE5A295CE634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB702723-F43B-4055-9A34-FE5A295CE634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB702723-F43B-4055-9A34-FE5A295CE634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB702723-F43B-4055-9A34-FE5A295CE634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB702723-F43B-4055-9A34-FE5A295CE634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DADC013B-16B0-4E87-9367-3AC4EF3769A6}
+	EndGlobalSection
+EndGlobal

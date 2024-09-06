@@ -1,0 +1,33 @@
+﻿body {
+}
+#main{
+    width:400px;
+    min-height:250px;
+
+}
+div{
+    background:brown;
+    border:1px solid #aaa;
+    width:80px;
+    height:80px;
+    margin:0 5px;
+    float:left;
+    align-items:center;
+    
+}
+div.colored{
+    background:blue;
+
+}
+.clear{
+    clear:both;
+}
+button{
+    display:block;
+    width:400px;
+    text-align:center;
+
+}
+h2{
+    text-align:center;
+}
